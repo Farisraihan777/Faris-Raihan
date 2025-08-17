@@ -1,4 +1,3 @@
-<!-- Profile Banner -->
 <img width="100%" src="https://i.imgur.com/vb1j1Yt.gif" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Faris Raihan</h1>
