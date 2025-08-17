@@ -23,14 +23,5 @@
 ---
 
 
-### 💻 Coding Time:
-<p align="center">
-<img src="https://i.imgur.com/3d6gX4C.gif" alt="coding" width="400"/>
-</p>
-
----
-
 ### ✨ Quote of the Day:
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+- "Code is like humor. When you have to explain it, it’s bad."
